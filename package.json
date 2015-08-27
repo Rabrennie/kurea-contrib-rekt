@@ -1,0 +1,8 @@
+{
+  "name": "kurea-contrib-rekt",
+  "main": "index.coffee",
+  "version": "0.0.0",
+  "description": "A module for Kurea to tell someone they're rekt.",
+  "license": "MIT",
+  "dependencies": {}
+}
