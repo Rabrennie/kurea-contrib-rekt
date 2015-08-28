@@ -4,5 +4,7 @@
   "version": "0.0.0",
   "description": "A module for Kurea to tell someone they're rekt.",
   "license": "MIT",
-  "dependencies": {}
+  "dependencies": {
+    "superagent": "^1.3.0"
+  }
 }
